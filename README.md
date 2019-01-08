@@ -1,2 +1,2 @@
 # React-Google-Map
-A simple react-widget for drawing shapes with the Google Maps JavaScript API
+A simple ReactJS widget for drawing shapes on a map with the Google Maps JavaScript API
